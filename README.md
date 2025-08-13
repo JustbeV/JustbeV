@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlo
 - 👀 I’m interested in codecode
-- 🌱 I’m currently learning java,html,css, and php
+- 🌱 I’m currently learning java,html,css,php and python
 - 
 - 📫 How to reach me ...dont reach me
 
