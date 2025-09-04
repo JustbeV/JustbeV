@@ -20,14 +20,3 @@ I get excited when I think of new project ideas, and I enjoy figuring out how to
 - **Other:** NoSQL and MySQL  
 
 ---
-
-
-## 🚀 Some Projects
-- 🔥 Smart Fire Detection & Suppression System (Capstone)  
-- ➗ Python Calculator  
-- 🐛 Bug Catching Game  
-
----
-
-## 🤝 Connect with Me
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)  
