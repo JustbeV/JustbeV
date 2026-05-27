@@ -16,7 +16,7 @@ I get excited when I think of new project ideas, and I enjoy figuring out how to
 
 ## 🛠 Tech & Tools
 - **Languages:** Python, Java, PHP, SQL, JavaScript
-- **Frameworks / Libraries: Laravel, React
+- **Frameworks:** / Libraries: Laravel, React
 - **Web / Frontend:** HTML, CSS, React 
 - **Tools:** VS Code, Android Studio, Git  
 - **Other:** NoSQL and MySQL  
