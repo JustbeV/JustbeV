@@ -7,7 +7,7 @@ I get excited when I think of new project ideas, and I enjoy figuring out how to
 ---
 
 ## 🌱 About Me
-- 📚 Currently studying **Python, PHP, React and NoSQL databases**  
+- 📚 Currently studying **Laravel, PHP, and MySQL databases**  
 - 🛠 Exploring **mobile apps, databases, and IoT projects**  
 - 🎯 Goal: To keep improving step by step and turn ideas into something great and real! 
 - ⚡ Fun fact: Sometimes I enjoy brainstorming more than coding itself 😅  
