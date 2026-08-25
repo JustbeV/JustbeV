@@ -48,4 +48,6 @@ I'm still learning, so this profile is basically a record of that process.
 
 ## Activity
 
+## Activity
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustbeV)](https://github.com/JustbeV)
