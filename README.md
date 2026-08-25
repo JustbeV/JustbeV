@@ -31,7 +31,7 @@ Most of the projects on my GitHub started as something I wanted to understand, t
 
 **Tools**
 
-[`Git`](https://git-scm.com/) · [`VS Code`](https://code.visualstudio.com/) · [`Android Studio`](https://developer.android.com/studio)
+[`Git`](https://git-scm.com/) · [`VS Code`](https://code.visualstudio.com/) · [`Android Studio`](https://developer.android.com/studio) · [`Linux`](https://www.linux.org/)
 
 ## What You'll Find Here
 
