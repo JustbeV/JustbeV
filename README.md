@@ -15,11 +15,11 @@ Most of the projects on my GitHub started as something I wanted to understand, t
 
 **Languages**
 
-`Python` `Java` `PHP` `SQL` `JavaScript`
+[`Python`](https://www.python.org/) · [`Java`](https://www.java.com/) · [`PHP`](https://www.php.net/) · [`SQL`](https://en.wikipedia.org/wiki/SQL) · [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Frameworks & Libraries**
 
-`Laravel` `React`
+[`Laravel`](https://laravel.com/) · [`React`](https://react.dev/)
 
 **Web**
 
