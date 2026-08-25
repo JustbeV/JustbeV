@@ -48,6 +48,4 @@ I'm still learning, so this profile is basically a record of that process.
 
 ## Activity
 
-## Activity
-
 ![GitHub Activity Graph](https://raw.githubusercontent.com/JustbeV/JustbeV/output/activity-graph.svg)
