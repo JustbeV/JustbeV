@@ -23,15 +23,15 @@ Most of the projects on my GitHub started as something I wanted to understand, t
 
 **Web**
 
-`HTML` `CSS` `JavaScript`
+[`HTML`](https://developer.mozilla.org/en-US/docs/Web/HTML) · [`CSS`](https://developer.mozilla.org/en-US/docs/Web/CSS) · [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Databases**
 
-`MySQL` `MongoDB` `NoSQL`
+[`MySQL`](https://www.mysql.com/) · [`MongoDB`](https://www.mongodb.com/) · [`NoSQL`](https://en.wikipedia.org/wiki/NoSQL)
 
 **Tools**
 
-`Git` `VS Code` `Android Studio`
+[`Git`](https://git-scm.com/) · [`VS Code`](https://code.visualstudio.com/) · [`Android Studio`](https://developer.android.com/studio)
 
 ## What You'll Find Here
 
