@@ -1,24 +1,51 @@
-# 👋 Hi, I'm Carlo!
+# Hi, I'm Carlo
 
-Welcome to my GitHub profile!  
+I'm an IT developer who enjoys building things, experimenting with new ideas, and learning by doing.
 
-I get excited when I think of new project ideas, and I enjoy figuring out how to make them real. Most of my repos are experiments, learning projects, and things I build out of curiosity.
+Most of the projects on my GitHub started as something I wanted to understand, test, or simply try. Some are small experiments, some are learning projects, and others grow into something more.
 
----
+## About Me
 
-## 🌱 About Me
-- 📚 Currently studying **Laravel, PHP, and MySQL databases**  
-- 🛠 Exploring **mobile apps, databases, and IoT projects**  
-- 🎯 Goal: To keep improving step by step and turn ideas into something great and real! 
-- ⚡ Fun fact: Sometimes I enjoy brainstorming more than coding itself 😅  
+* Currently learning and working with **Laravel, PHP, and MySQL**
+* Interested in **web development, databases, mobile applications, and IoT**
+* Enjoy building projects from scratch and figuring things out along the way
+* Always working on improving my skills one project at a time
 
----
+## Tech Stack
 
-## 🛠 Tech & Tools
-- **Languages:** Python, Java, PHP, SQL, JavaScript
-- **Frameworks:** / Libraries: Laravel, React
-- **Web / Frontend:** HTML, CSS, React 
-- **Tools:** VS Code, Android Studio, Git  
-- **Other:** NoSQL and MySQL  
+**Languages**
 
----
+`Python` `Java` `PHP` `SQL` `JavaScript`
+
+**Frameworks & Libraries**
+
+`Laravel` `React`
+
+**Web**
+
+`HTML` `CSS` `JavaScript`
+
+**Databases**
+
+`MySQL` `MongoDB` `NoSQL`
+
+**Tools**
+
+`Git` `VS Code` `Android Studio`
+
+## What You'll Find Here
+
+You'll find a mix of:
+
+* Personal projects
+* Learning experiments
+* Web applications
+* Database projects
+* Small tools and prototypes
+* Random ideas that I decided to build
+
+I'm still learning, so this profile is basically a record of that process.
+
+## Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustbeV)](https://github.com/JustbeV)
